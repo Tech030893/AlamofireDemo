@@ -71,6 +71,7 @@ extension ViewController: UITableViewDelegate, UITableViewDataSource
         let val1 = stateDict.allKeys as! [String]
         let val2 = val1[indexPath.section]
         cityArr = stateDict.value(forKey: "\(val2)") as! [String]
+        cell.backgroundColor = .systemIndigo
         cell.textLabel?.text = cityArr[indexPath.row]
         return cell
     }
