@@ -29,3 +29,9 @@ This application consists of API call for Brand Listing and City Listing using A
 - Application contains app icon as well as splash screen
 - Data fetched from API's are displayed on custom cells using custom labels and image view.
 - App is functional, free and ready to use.
+
+## Application ScreenShots
+
+[![Collection-View-Home-Page.png](https://i.postimg.cc/fLGvhxg5/Collection-View-Home-Page.png)](https://postimg.cc/wykNXszs)
+
+[![Table-View-Home-Page.png](https://i.postimg.cc/kGNW3LSX/Table-View-Home-Page.png)](https://postimg.cc/MfTn1Pth)
