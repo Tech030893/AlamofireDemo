@@ -3,7 +3,7 @@
 This application consists of API call for Brand Listing and City Listing using Alamofire and Kingfisher pods.
 
 ## Programming language used
-- Swift
+- Swift 5
 
 ## Deployment Info
 - iOS 14.3
