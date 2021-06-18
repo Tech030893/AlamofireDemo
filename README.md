@@ -32,6 +32,6 @@ This application consists of API call for Brand Listing and City Listing using A
 
 ## Application ScreenShots
 
-[![Collection-View-Home-Page.png](https://i.postimg.cc/fLGvhxg5/Collection-View-Home-Page.png)](https://postimg.cc/wykNXszs)
+[![Collection-View-Home-Page.png](https://i.postimg.cc/Xv7MJdJr/Collection-View-Home-Page.png)](https://postimg.cc/HrKvvJbm)
 
-[![Table-View-Home-Page.png](https://i.postimg.cc/kGNW3LSX/Table-View-Home-Page.png)](https://postimg.cc/MfTn1Pth)
+[![Table-View-Home-Page.png](https://i.postimg.cc/B6Xd532s/Table-View-Home-Page.png)](https://postimg.cc/jwYgKG8k)
